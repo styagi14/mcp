@@ -1,7 +1,7 @@
 {
   "name": "mcp-application-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "MCP Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
